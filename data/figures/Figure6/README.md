@@ -1,4 +1,6 @@
-# To generate figure 6, users need to download MNE and use the data provided by MNE (sample data subject folder)
+# To generate figure 6
 
-# Install MNE: https://mne.tools/stable/install/index.html
-# Data: https://mne.tools/dev/overview/datasets_index.html
+Users need to download MNE and use the data provided by MNE (sample data subject folder)
+
+Install MNE: https://mne.tools/stable/install/index.html
+Data: https://mne.tools/dev/overview/datasets_index.html
