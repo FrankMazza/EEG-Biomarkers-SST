@@ -6,6 +6,11 @@ Files needed to simuate, analyze and plot simulation data from
 
 
 
+
+
+
+
+
 Note: users need to download MNE and use the data provided by MNE to generate Figure 6 
 MNE data used in figure 6 is referenced as data/figures/Figure6
 
